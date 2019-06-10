@@ -1,6 +1,6 @@
-baseURL = "https://pravilna.by"
+baseURL = "pravilna.seveleu.com"
 
-title = "Правільна!"
+title = "Praviĺna!"
 description = "desc"
 
 DefaultContentLanguage = "be"
@@ -11,14 +11,13 @@ theme="spelling"
 
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 
-googleAnalytics = "UA-127301756-1"
 
 [[menu.main]]
     name = "GitHub"
     weight = 2
-    url = "https://github.com/Alroniks/pravilnaby"
+    url = "https://github.com/sevelev-ens/pravilnaby"
 
 [[menu.main]]
-    name = "Падтрымаць праект"
+    name = "Padtrymać prajekt"
     weight = 1
     url = "/support"
