@@ -1,43 +1,43 @@
 +++
-title = "Падтрымаць праект"
+title = "Padtrymać prajekt"
 draft = false
 +++
 
 
-Вітаю, сябры. 
+Vitaju, siabry. 
 
-Праект **"Правільна!"** быў створаны, каб дапамагчы людям, якія жадаюць размаўляць і пісаць на беларускай мове, рабіць гэта правільна.
+Prajekt **"Praviĺna!"** byŭ stvorany, kab dapamahčy liudiam, jakija žadajuć razmaŭliać i pisać na bielaruskaj movie, rabić heta praviĺna.
 
-У планах пашырыць магчымасці праекта і дадаць правілы класічнага правапісу, а таксама лацінкі.
+U planach pašyryć mahčymaści prajekta i dadać pravily klasičnaha pravapisu, a taksama lacinki.
 
-Праект незалежны, некамерцыйны і бясплатны для выкарстання для усіх жадаючых.
+Prajekt niezaliežny, niekamiercyjny i biasplatny dlia vykarstańnia dlia usich žadajučych.
 
-Вы можаце дапамагчы добрай справе наступным чынам.
+Vy možacie dapamahčy dobraj spravie nastupnym čynam.
 
 
-## Фінансава
+## Finansava
 
-Сайт не патрабуе шмат сродкаў для існавання, але я буду рады любым ахвяраванням у якасці падзякі за працу і на аплату даменнага імені.
+Sajt nie patrabuje šmat srodkaŭ dlia isnavańnia, alie ja budu rady liubym achviaravańniam u jakaści padziaki za pracu i na aplatu damiennaha imieni.
 
-Перавесці грошы можна на картку праз сервіс https://perevod.mtbank.by ці праз прыладу для тэлефонаў http://denegram.by/. Або праз сервіс Яндэкс.Грошы.
+Pieravieści hrošy možna na kartku praz siervis https://perevod.mtbank.by ci praz pryladu dlia teliefonaŭ http://denegram.by/. Abo praz siervis Jandeks.Hrošy.
 
-Нумар карткі:
+Numar kartki:
 
 ### 5351 0413 2837 8722
 
-Нумар кошыка Яндэкс.Грошы:
+Numar košyka Jandeks.Hrošy:
 
 ### [41001878021446](https://money.yandex.ru/to/41001878021446/500)
 
 
-## Удзелам
+## Udzielam
 
-Увесь [зыходны код](https://github.com/Alroniks/pravilnaby) праекта размешчаны на сервісе GitHub. 
+Uvieś [zychodny kod](https://github.com/Alroniks/pravilnaby) prajekta raźmieščany na siervisie GitHub. 
 
-Калі вы знайшлі памылку ці маеце іншыя прапановы па развіцці, калі ласка, дасылайте іх праз раздзел [Issues](https://github.com/Alroniks/pravilnaby/issues).
+Kali vy znajšli pamylku ci majecie inšyja prapanovy pa raźvićci, kali laska, dasylajtie ich praz raździel [Issues](https://github.com/Alroniks/pravilnaby/issues).
 
-Калі вы жадаеце дапамагчы з кодам, дасылайце каміты праз раздзел [Pull Requests](https://github.com/Alroniks/pravilnaby/pulls).
+Kali vy žadajecie dapamahčy z kodam, dasylajcie kamity praz raździel [Pull Requests](https://github.com/Alroniks/pravilnaby/pulls).
 
-Дзякуй за ўдзел!
+Dziakuj za ŭdziel!
 
-P.S. Па пытаннях спонсарскай дапамогі ці рэкламы пішыце калі ласка на [ivan@klimchuk.com](mailto:ivan@klimchuk.com)
+P.S. Pa pytańniach sponsarskaj dapamohi ci reklamy pišycie kali laska na [ivan@klimchuk.com](mailto:ivan@klimchuk.com)

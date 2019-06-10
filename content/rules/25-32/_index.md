@@ -1,6 +1,6 @@
 +++
-title = "Вялікая і малая літары ў розных выпадках"
-description = "Правапіс вялікай і малой літар, абагульненне параграфаў з 25 па 32"
+title = "Vialikaja i malaja litary ŭ roznych vypadkach"
+description = "Pravapis vialikaj i maloj litar, abahuĺnieńnie parahrafaŭ z 25 pa 32"
 draft = false
 include = [25,26,27,28,29,30,31,32]
 +++
