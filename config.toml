@@ -6,7 +6,7 @@ description = "desc"
 DefaultContentLanguage = "be"
 languageCode = "be-BY"
 
-publishDir = "docs"
+publishDir = "public"
 theme="spelling"
 
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
