@@ -10,14 +10,3 @@ publishDir = "public"
 theme="spelling"
 
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
-
-
-[[menu.main]]
-    name = "GitHub"
-    weight = 2
-    url = "https://github.com/sevelev-ens/pravilnaby"
-
-[[menu.main]]
-    name = "Padtrymać prajekt"
-    weight = 1
-    url = "/support"
