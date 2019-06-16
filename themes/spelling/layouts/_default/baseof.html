@@ -41,7 +41,7 @@
     <script src="//cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
     <script src="//cdn.jsdelivr.net/autocomplete.js/0/autocomplete.min.js"></script>
     <script>
-      var client = algoliasearch('TRE8OMB1KR', '784e81093a7bb9b63469ecd64bac6ccc');
+      var client = algoliasearch('JSKO5Q8AJ7', '3dcc036aa726487d3e3511b4c6ba8b20');
       var index = client.initIndex('rules');
       autocomplete(
         '#search-input', {
@@ -51,7 +51,7 @@
           openOnFocus: true,
           keyboardShortcuts: ['s'],
           templates: {
-            footer: '<div class="branding"><div class="wrapper"><span>Працуе дякуючы</span><a target="_blank" href="https://algolia.com"><img src="https://www.algolia.com/static_assets/images/press/downloads/algolia-logo-light.svg" /></a></div></div>'
+            footer: '<div class="branding"><div class="wrapper"><span>Pracuje dziakujučy</span><a target="_blank" href="https://algolia.com"><img src="https://www.algolia.com/static_assets/images/press/downloads/algolia-logo-light.svg" /></a></div></div>'
           }
         }, [{
           source: autocomplete.sources.hits(index, { hitsPerPage: 7 }),
